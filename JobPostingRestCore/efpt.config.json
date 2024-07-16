@@ -1,0 +1,74 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "jobpostingContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models\\jobposting",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "JobPostingRestCore",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[JobPosting]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[JobPostingCandidature]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[JobPostingFiltroProvince]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[JobPostingRequisiti]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[JobPostingRequisitiComuni]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[JobPostingRequisitiContratti]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[JobPostingRequisitiLivelli]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[JobPostingRequisitiProvince]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

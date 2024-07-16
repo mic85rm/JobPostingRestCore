@@ -1,0 +1,28 @@
+﻿@JobPostingRestCore_HostAddress = https://localhost:7197
+
+GET {{JobPostingRestCore_HostAddress}}/getCandidature/{0407466}
+
+###
+
+GET {{JobPostingRestCore_HostAddress}}/
+
+###
+
+GET {{JobPostingRestCore_HostAddress}}/
+
+###
+
+POST {{JobPostingRestCore_HostAddress}}/ConfermaCandidatura
+Content-Type: application/json
+{
+  "idjobPosting": "480",
+  "idprovincia": "rm",
+  "idtitolostudio": "ige",
+  "idcomune": "rm",
+}
+
+###
+
+POST {{JobPostingRestCore_HostAddress}}/ConfermaCandidatura
+
+###
